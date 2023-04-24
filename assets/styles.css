@@ -49,8 +49,11 @@ body {
   display: flex;
   gap: 0.1em;
 }
-.container .content .result div p {
+.container .content .result div span {
   color: hsl(259, 100%, 65%);
+}
+.container .content .result div p {
+  color: hsl(0, 0%, 0%);
 }
 .container .content form {
   display: flex;

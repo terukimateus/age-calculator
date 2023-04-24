@@ -51,9 +51,11 @@ body {
             div {
                 display: flex;
                 gap: 0.1em;
-
-                p {
+                span {
                     color: hsl(259, 100%, 65%);
+                }
+                p {
+                    color: hsl(0, 0%, 0%);
                 }
             }
         }
